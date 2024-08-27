@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <array name="Carreras">
+        <item>Contaduria</item>
+        <item>Mercadotecnia</item>
+        <item>Sistemas</item>
+        <item>Secretariado</item>
+        <item>Gastronomia</item>
+    </array>
+</resources>
